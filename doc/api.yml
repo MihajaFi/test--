@@ -9,7 +9,7 @@ paths:
   /patrimoines:
     get:
       tags:
-        - patrimoine
+        - patrimoines
       operationId: getPatrimoines
       summary: obtenir une liste paginée des patrimoines
       parameters:
